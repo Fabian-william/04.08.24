@@ -1,0 +1,5 @@
+from summarizer_built.import.*
+from.flask.import.Flask,.render_template,.request
+
+app.=.flask(_name_)
+app.secret_key.=.'forsummary'
